@@ -1,2 +1,2 @@
 # tutorial
-YUAA Tutorial
+This is a YUAA GitHub Tutorial
